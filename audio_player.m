@@ -1,3 +1,7 @@
+% Project Name - Audio Player GUI
+% Author - Rupesh Harode
+% RollNo. - 0801EC151058
+
 function varargout = audio_player(varargin)
 % Begin initialization code - DO NOT EDIT
 gui_Singleton = 1;
